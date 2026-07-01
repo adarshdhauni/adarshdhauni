@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**adarshdhauni/adarshdhauni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adarsh Dhauni
 
-Here are some ideas to get you started:
+**Full Stack Developer** · India · Open to remote roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+I'd rather build one complete, production-ready application than ten half-finished demos. That means giving the database design, API architecture, deployment pipeline, and frontend the same level of attention. I care about clean architecture, maintainable code, and building software that's ready for real users.
+
+Outside of code, I spend my time strength training and gaming.
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+HTML5 · CSS3 · JavaScript (ES6+) · React · Redux Toolkit · RTK Query · React Router · Tailwind CSS · shadcn/ui · Radix UI · Vite
+
+**Backend**
+
+Node.js · Express.js · MongoDB · Mongoose · JWT Authentication · REST APIs · Multer · Bcrypt
+
+**Tools**
+
+Git · GitHub · VS Code · Postman · Vercel · Railway · MongoDB Atlas · npm
+
+---
+
+## Featured Project
+
+**NOVA STONE & CO.** — Full-Stack Fashion E-Commerce Platform
+
+[Live Demo](https://ecommerce-platform-f4qc.vercel.app/) · [Repository](https://github.com/adarshdhauni/ecommerce-platform)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<p align="center">
+  <a href="https://github.com/adarshdhauni/ecommerce-platform">
+    <img src="https://opengraph.githubassets.com/1/adarshdhauni/ecommerce-platform" alt="NOVA STONE & CO. repository" width="800"/>
+  </a>
+</p>
+
+A production-ready full-stack fashion e-commerce platform built from scratch, covering the complete shopping experience from product discovery to checkout with a secure role-based admin dashboard.
+
+**Highlights**
+
+- Complete shopping workflow from product discovery to order placement
+- Secure JWT authentication and role-based authorization following modern backend security practices
+- Modern React architecture powered by Redux Toolkit and RTK Query
+- Independent frontend and backend deployments using Vercel and Railway
+
+The repository documents the full architecture, API reference, and database schema.
+
+---
+
+## Current Focus
+
+- Building additional production-ready full-stack projects
+- Strengthening problem-solving skills through LeetCode
+- Preparing for remote full-stack engineering roles
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshdhauni&show_icons=true&hide_border=true" height="160" alt="Adarsh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhauni&layout=compact&hide_border=true" height="160" alt="Top languages" />
+</p>
+
+---
+
+## Contact
+
+- Email: [adarshdhauni186@gmail.com](mailto:adarshdhauni186@gmail.com)
