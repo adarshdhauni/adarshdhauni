@@ -43,7 +43,7 @@ Git · GitHub · VS Code · Postman · Vercel · Railway · MongoDB Atlas · npm
 <p align="center">
   <a href="https://github.com/adarshdhauni/ecommerce-platform">
     <img
-      src="https://raw.githubusercontent.com/adarshdhauni/ecommerce-platform/master/assets/screenshots/social-preview.jpg"
+      src="https://raw.githubusercontent.com/adarshdhauni/ecommerce-platform/master/assets/social-preview.jpg"
       alt="NOVA STONE & CO. Preview"
       width="800"
     />
@@ -68,21 +68,12 @@ The repository documents the full architecture, API reference, and database sche
 
 - Building additional production-ready full-stack projects
 - Strengthening problem-solving skills through LeetCode
-- Preparing for remote full-stack engineering roles
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshdhauni&show_icons=true&hide_border=true" height="160" alt="Adarsh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhauni&layout=compact&hide_border=true" height="160" alt="Top languages" />
-</p>
+- Preparing for remote Full Stack Software Engineering roles
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/adarshdhauni
-- LeetCode: https://leetcode.com/u/Adarsh_49/
-- Email: [adarshdhauni186@gmail.com](mailto:adarshdhauni186@gmail.com)
+- **GitHub:** https://github.com/adarshdhauni
+- **LeetCode:** https://leetcode.com/u/Adarsh_49/
+- **Email:** [adarshdhauni186@gmail.com](mailto:adarshdhauni186@gmail.com)
