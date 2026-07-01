@@ -2,7 +2,7 @@
 
 # Adarsh Dhauni
 
-**Full Stack Developer** · India · Open to remote roles
+**Full Stack Developer** · India
 
 </div>
 
@@ -42,17 +42,22 @@ Git · GitHub · VS Code · Postman · Vercel · Railway · MongoDB Atlas · npm
 
 <p align="center">
   <a href="https://github.com/adarshdhauni/ecommerce-platform">
-    <img src="https://opengraph.githubassets.com/1/adarshdhauni/ecommerce-platform" alt="NOVA STONE & CO. repository" width="800"/>
+    <img
+      src="https://raw.githubusercontent.com/adarshdhauni/ecommerce-platform/master/assets/screenshots/social-preview.jpg"
+      alt="NOVA STONE & CO. Preview"
+      width="800"
+    />
   </a>
 </p>
 
-A production-ready full-stack fashion e-commerce platform built from scratch, covering the complete shopping experience from product discovery to checkout with a secure role-based admin dashboard.
+A production-ready full-stack fashion e-commerce platform built from scratch, delivering a complete shopping experience with secure authentication, role-based administration, and a modern React frontend.
 
 **Highlights**
 
 - Complete shopping workflow from product discovery to order placement
-- Secure JWT authentication and role-based authorization following modern backend security practices
+- Secure JWT authentication and role-based authorization
 - Modern React architecture powered by Redux Toolkit and RTK Query
+- Clean REST API built with Express.js and MongoDB
 - Independent frontend and backend deployments using Vercel and Railway
 
 The repository documents the full architecture, API reference, and database schema.
@@ -78,4 +83,6 @@ The repository documents the full architecture, API reference, and database sche
 
 ## Contact
 
+- GitHub: https://github.com/adarshdhauni
+- LeetCode: https://leetcode.com/u/Adarsh_49/
 - Email: [adarshdhauni186@gmail.com](mailto:adarshdhauni186@gmail.com)
