@@ -72,7 +72,7 @@ The repository documents the full architecture, API reference, and database sche
 
 ---
 
-## Contact
+## Connect
 
 - **GitHub:** https://github.com/adarshdhauni
 - **LeetCode:** https://leetcode.com/u/Adarsh_49/
