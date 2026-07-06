@@ -74,6 +74,8 @@ The repository documents the full architecture, API reference, and database sche
 
 ## Connect
 
+- **Portfolio:** https://portfolio-xi-silk-b3un2mc452.vercel.app
 - **GitHub:** https://github.com/adarshdhauni
+- **LinkedIn:** https://www.linkedin.com/in/adarsh-dhauni-7146903a6/
 - **LeetCode:** https://leetcode.com/u/Adarsh_49/
-- **Email:** [adarshdhauni186@gmail.com](mailto:adarshdhauni186@gmail.com)
+- **Email:** adarshdhauni186@gmail.com
