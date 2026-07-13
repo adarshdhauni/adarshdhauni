@@ -2,11 +2,15 @@
 
 # Adarsh Dhauni
 
-**Full Stack Developer** · India
+**Full-Stack Developer** · India
+
+Building modern web applications with React, Node.js, Express, and MongoDB.
 
 </div>
 
-I enjoy building full-stack web applications and figuring out how everything fits together behind the scenes. I like working across the stack, from databases and backend APIs to frontend interfaces, and every project teaches me something new.
+---
+
+I enjoy building full-stack web applications and continuously improving my software engineering skills by creating production-quality projects.
 
 Outside of coding, you'll usually find me at the gym or playing games.
 
@@ -30,62 +34,89 @@ Git · GitHub · VS Code · Postman · MongoDB Atlas · Railway · Vercel · npm
 
 ## ⭐ Featured Project
 
-# NOVA STONE & CO.
+### NOVA STONE & CO.
 
 *A full-stack fashion e-commerce application built with React, Express, and MongoDB.*
 
-**Live Demo:** https://ecommerce-platform-f4qc.vercel.app/
+<p>
+  <a href="https://ecommerce-platform-f4qc.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 
-**Repository:** https://github.com/adarshdhauni/ecommerce-platform
+  <a href="https://github.com/adarshdhauni/ecommerce-platform">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square\&logo=redux\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 <p align="center">
   <a href="https://github.com/adarshdhauni/ecommerce-platform">
     <img
       src="https://raw.githubusercontent.com/adarshdhauni/ecommerce-platform/master/client/public/nova-stone-og.png"
       alt="NOVA STONE & CO. Preview"
-      width="800"
+      width="900"
     />
   </a>
 </p>
 
 I built this project to understand what goes into a complete e-commerce application beyond just displaying products. It covers the full shopping flow—from authentication and product browsing to checkout, order management, and an admin dashboard—with a backend designed to stay organized as the application grows.
 
-### ✨ Features
+## ✨ Features
 
-* Complete shopping flow from browsing products to placing orders
-* Secure JWT authentication with separate customer and admin access
-* Product search, filtering, sorting, and server-side pagination
-* Shopping cart, checkout, shipping details, and order history
-* Product reviews and ratings
-* Admin dashboard for managing products and orders
-* Responsive interface built with React, Tailwind CSS, and shadcn/ui
-* Separate frontend and backend deployments using Vercel and Railway
+### 🛍️ Shopping Experience
 
-### 🧠 A Few Engineering Decisions
+- Product browsing with search, filtering, sorting, and server-side pagination
+- Product details with image gallery, reviews, and ratings
+- Shopping cart with quantity management
+- Multi-step checkout with shipping and payment details
+- Order placement and order history
 
-* Used server-side pagination, filtering, sorting, and search so the client only requests the data it needs.
-* Kept the backend modular with separate controllers, routes, middleware, models, and utilities to make it easier to extend.
-* Used RTK Query for server-state management, caching, and automatic cache invalidation.
-* Split the database into dedicated schemas for users, products, reviews, orders, shipping, and payments to keep responsibilities clear.
-* Added lazy loading, responsive images, and code splitting to improve loading performance.
-* Built reusable components and shared utilities instead of repeating logic throughout the application.
+### 🔐 Authentication & Admin
 
-The repository includes setup instructions, API documentation, and an overview of the project structure.
+- Secure JWT authentication and authorization
+- Separate customer and admin roles
+- Protected admin dashboard for managing products and orders
+- Role-based access control for administrative actions
+
+### 🎨 User Experience
+
+- Mobile-first responsive design
+- Modern interface built with React, Tailwind CSS, and shadcn/ui
+- Skeleton loading states and toast notifications
+- Optimized image loading and smooth interactions
+
+### ⚡ Technical Highlights
+
+| Category | Features |
+| -------- | -------- |
+| **Performance** | Code splitting, lazy loading, responsive WebP images, memoized components, and efficient state management with Redux Toolkit & RTK Query |
+| **Backend** | Modular Express architecture, centralized error handling, JWT authentication, request validation, and MongoDB with Mongoose |
+| **Deployment** | Independent frontend and backend deployments using Vercel and Railway |
+
+### 🧠 Engineering Decisions
+
+- Implemented server-side pagination, filtering, sorting, and search so the client only requests the data it needs.
+- Organized the backend into controllers, routes, middleware, models, and utilities for maintainability and scalability.
+- Used RTK Query for server-state management, caching, and automatic cache invalidation.
+- Separated users, products, reviews, orders, shipping, and payments into dedicated database schemas with clear responsibilities.
+- Optimized performance through lazy loading, responsive images, and code splitting.
+- Built reusable components and shared utilities to reduce duplication and improve maintainability.
 
 ---
 
 ## 🎯 Current Focus
 
-* Building better full-stack applications
-* Solving problems on LeetCode
-* Learning more about backend architecture and system design
-* Looking for opportunities to build software professionally
+- Building scalable, production-quality full-stack applications
+- Strengthening problem-solving skills through LeetCode
+- Deepening my understanding of backend architecture and system design
+- Seeking opportunities to contribute as a Full-Stack Software Engineer
 
 ---
 
