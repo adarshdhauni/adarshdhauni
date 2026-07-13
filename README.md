@@ -6,10 +6,9 @@
 
 </div>
 
-I build production-ready full-stack applications with a focus on clean architecture, maintainable code, performance, and user experience. I enjoy taking an idea from database design and API architecture through deployment rather than leaving projects half finished.
-I'm interested in building scalable backend systems, modern React applications, and software that's designed for real users rather than just demonstrations.
+I enjoy building full-stack web applications and learning how things work behind the scenes. I like working across the stack, from backend APIs and databases to frontend interfaces, and I'm always looking to improve with every project.
 
-Outside of coding, you'll usually find me in the gym or playing games.
+Outside of coding, you'll usually find me at the gym or playing games.
 
 ---
 
