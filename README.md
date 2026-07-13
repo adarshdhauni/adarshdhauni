@@ -6,15 +6,14 @@
 
 </div>
 
-I build production-ready full-stack applications with a strong focus on architecture, maintainability, and user experience. Rather than creating multiple incomplete projects, I prefer taking a single application from database design and API architecture through deployment and frontend implementation.
+I build production-ready full-stack applications with a focus on clean architecture, maintainable code, performance, and user experience. I enjoy taking an idea from database design and API architecture through deployment rather than leaving projects half finished.
+I'm interested in building scalable backend systems, modern React applications, and software that's designed for real users rather than just demonstrations.
 
-My interests include designing scalable REST APIs, building performant React applications, and writing clean, maintainable code that is ready for real users.
-
-Outside of software development, I spend my time strength training and gaming.
+Outside of coding, you'll usually find me in the gym or playing games.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -30,11 +29,11 @@ Git · GitHub · VS Code · Postman · MongoDB Atlas · Railway · Vercel · npm
 
 ---
 
-## Featured Project
+## ⭐ Featured Project
 
-# NOVA STONE & CO.
+### NOVA STONE & CO.
 
-### Production-Ready Full-Stack Fashion E-Commerce Platform
+*Production-Ready Full-Stack Fashion E-Commerce Platform built with React, Express, and MongoDB.*
 
 **Live Demo:** https://ecommerce-platform-f4qc.vercel.app/
 
@@ -56,9 +55,9 @@ Git · GitHub · VS Code · Postman · MongoDB Atlas · Railway · Vercel · npm
   </a>
 </p>
 
-A production-ready full-stack fashion e-commerce platform built from scratch with a modern React frontend, secure Express backend, and MongoDB database. The application delivers a complete shopping experience, role-based administration, and a scalable architecture suitable for real-world deployment.
+A production-ready full-stack fashion e-commerce platform built with React, Express, and MongoDB. The application includes secure authentication, a complete shopping workflow, role-based administration, and a scalable architecture designed for real-world deployment.
 
-### Highlights
+### ⭐ Highlights
 
 * Complete shopping workflow from product discovery to checkout and order placement
 * Secure JWT authentication with role-based authorization for customer and admin functionality
@@ -67,7 +66,7 @@ A production-ready full-stack fashion e-commerce platform built from scratch wit
 * Responsive, accessible UI built with React, Tailwind CSS, and shadcn/ui
 * Independent frontend and backend deployments using Vercel and Railway
 
-### Engineering Decisions
+### 🧠  Engineering Decisions
 
 * Implemented server-side pagination, filtering, sorting, and search to improve scalability and reduce unnecessary client-side processing
 * Organized the backend into modular controllers, routes, middleware, models, and utilities for long-term maintainability
@@ -80,28 +79,31 @@ The repository includes project architecture, API documentation, database models
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-* Building additional production-ready full-stack applications
-* Strengthening data structures and algorithms through LeetCode
-* Deepening backend architecture and system design knowledge
-* Preparing for remote Full Stack Software Engineering roles
+- Building production-ready full-stack applications
+- Strengthening problem-solving through LeetCode
+- Learning backend architecture and system design
+- Preparing for remote Full Stack Software Engineering roles
 
 ---
 
-## Connect
+## 🤝 Connect
 
-**Portfolio**
-https://portfolio-xi-silk-b3un2mc452.vercel.app
-
-**GitHub**
-https://github.com/adarshdhauni
-
-**LinkedIn**
-https://www.linkedin.com/in/adarsh-dhauni-7146903a6/
-
-**LeetCode**
-https://leetcode.com/u/Adarsh_49/
-
-**Email**
-[adarshdhauni186@gmail.com](mailto:adarshdhauni186@gmail.com)
+<p align="left">
+  <a href="https://github.com/adarshdhauni">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+    <a href="https://portfolio-xi-silk-b3un2mc452.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/adarsh-dhauni-7146903a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Adarsh_49/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:adarshdhauni186@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
