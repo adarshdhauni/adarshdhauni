@@ -6,7 +6,7 @@
 
 </div>
 
-I enjoy building full-stack web applications and learning how things work behind the scenes. I like working across the stack, from backend APIs and databases to frontend interfaces, and I'm always looking to improve with every project.
+I enjoy building full-stack web applications and figuring out how everything fits together behind the scenes. I like working across the stack, from databases and backend APIs to frontend interfaces, and every project teaches me something new.
 
 Outside of coding, you'll usually find me at the gym or playing games.
 
@@ -30,9 +30,9 @@ Git · GitHub · VS Code · Postman · MongoDB Atlas · Railway · Vercel · npm
 
 ## ⭐ Featured Project
 
-### NOVA STONE & CO.
+# NOVA STONE & CO.
 
-*Production-Ready Full-Stack Fashion E-Commerce Platform built with React, Express, and MongoDB.*
+*A full-stack fashion e-commerce application built with React, Express, and MongoDB.*
 
 **Live Demo:** https://ecommerce-platform-f4qc.vercel.app/
 
@@ -54,36 +54,38 @@ Git · GitHub · VS Code · Postman · MongoDB Atlas · Railway · Vercel · npm
   </a>
 </p>
 
-A production-ready full-stack fashion e-commerce platform built with React, Express, and MongoDB. The application includes secure authentication, a complete shopping workflow, role-based administration, and a scalable architecture designed for real-world deployment.
+I built this project to understand what goes into a complete e-commerce application beyond just displaying products. It covers the full shopping flow—from authentication and product browsing to checkout, order management, and an admin dashboard—with a backend designed to stay organized as the application grows.
 
-### ⭐ Highlights
+### ✨ Features
 
-* Complete shopping workflow from product discovery to checkout and order placement
-* Secure JWT authentication with role-based authorization for customer and admin functionality
-* Modular REST API built with Express.js and MongoDB using structured routing and middleware
-* State management powered by Redux Toolkit and RTK Query with efficient API caching
-* Responsive, accessible UI built with React, Tailwind CSS, and shadcn/ui
-* Independent frontend and backend deployments using Vercel and Railway
+* Complete shopping flow from browsing products to placing orders
+* Secure JWT authentication with separate customer and admin access
+* Product search, filtering, sorting, and server-side pagination
+* Shopping cart, checkout, shipping details, and order history
+* Product reviews and ratings
+* Admin dashboard for managing products and orders
+* Responsive interface built with React, Tailwind CSS, and shadcn/ui
+* Separate frontend and backend deployments using Vercel and Railway
 
-### 🧠  Engineering Decisions
+### 🧠 A Few Engineering Decisions
 
-* Implemented server-side pagination, filtering, sorting, and search to improve scalability and reduce unnecessary client-side processing
-* Organized the backend into modular controllers, routes, middleware, models, and utilities for long-term maintainability
-* Used RTK Query for centralized server-state management, request caching, and automatic cache invalidation
-* Designed MongoDB schemas for users, products, reviews, orders, shipping addresses, and payments with clear separation of responsibilities
-* Applied responsive image delivery, lazy loading, and code splitting to improve loading performance
-* Built reusable UI components and shared application utilities to minimize duplication and simplify future development
+* Used server-side pagination, filtering, sorting, and search so the client only requests the data it needs.
+* Kept the backend modular with separate controllers, routes, middleware, models, and utilities to make it easier to extend.
+* Used RTK Query for server-state management, caching, and automatic cache invalidation.
+* Split the database into dedicated schemas for users, products, reviews, orders, shipping, and payments to keep responsibilities clear.
+* Added lazy loading, responsive images, and code splitting to improve loading performance.
+* Built reusable components and shared utilities instead of repeating logic throughout the application.
 
-The repository includes project architecture, API documentation, database models, and setup instructions.
+The repository includes setup instructions, API documentation, and an overview of the project structure.
 
 ---
 
 ## 🎯 Current Focus
 
-- Building production-ready full-stack applications
-- Strengthening problem-solving through LeetCode
-- Learning backend architecture and system design
-- Preparing for remote Full Stack Software Engineering roles
+* Building better full-stack applications
+* Solving problems on LeetCode
+* Learning more about backend architecture and system design
+* Looking for opportunities to build software professionally
 
 ---
 
@@ -93,15 +95,19 @@ The repository includes project architecture, API documentation, database models
   <a href="https://github.com/adarshdhauni">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-    <a href="https://portfolio-xi-silk-b3un2mc452.vercel.app/">
+
+  <a href="https://portfolio-xi-silk-b3un2mc452.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+
   <a href="https://www.linkedin.com/in/adarsh-dhauni-7146903a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://leetcode.com/u/Adarsh_49/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+
   <a href="mailto:adarshdhauni186@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
