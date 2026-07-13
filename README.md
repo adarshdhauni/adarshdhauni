@@ -43,7 +43,7 @@ Git · GitHub · VS Code · Postman · Vercel · Railway · MongoDB Atlas · npm
 <p align="center">
   <a href="https://github.com/adarshdhauni/ecommerce-platform">
     <img
-      src="https://raw.githubusercontent.com/adarshdhauni/ecommerce-platform/master/assets/social-preview.jpg"
+      src="https://raw.githubusercontent.com/adarshdhauni/ecommerce-platform/master/client/public/nova-stone-og.png"
       alt="NOVA STONE & CO. Preview"
       width="800"
     />
